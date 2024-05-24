@@ -2,7 +2,7 @@
 
 <h2 align="left" id="macropower-tech">About me</h2>
 
-> I am a junior fullstack developer with more than a year of experience in creating web applications. I am very comfortable with Java and Spring Boot for the backend, and React for the frontend. I like to collaborate in agile teams, solve problems and I'm always learning new technologies. I focus a lot on writing clean and maintainable code, and following best practices.
+> I am a junior fullstack developer with over a year of experience building web applications. I am very familiar with Java and Spring Boot for the backend, and React for the frontend. I enjoy collaborating in agile teams, solving problems and I'm always learning new technologies. I focus a lot on writing clean and maintainable code, and following best practices.
 
 
 
