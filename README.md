@@ -27,11 +27,11 @@
     </td>
    </td>
         <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
+      <a href="#macropower-tech" >
+        <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48" height="48" alt="Tailwind" />
       </a>
-      <br>TypeScript
-    </td>   
+      <br>Tailwind
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="React" />
@@ -90,13 +90,13 @@
       <br>Docker
     </td>
     </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48" height="48" alt="Tailwind" />
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
+      <br>TypeScript
+    </td>   
+         <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="48" height="48" alt="Angular" />
       </a>
