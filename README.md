@@ -99,12 +99,6 @@
 
 <table align="center">
   <tr >
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/452192/docker.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
     </td>
   <td align="center" width="96">
       <a href="#macropower-tech">
