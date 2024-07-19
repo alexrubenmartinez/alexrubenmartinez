@@ -2,30 +2,19 @@
 
 <h2 align="left" id="macropower-tech">About me</h2>
 
-> I am a junior fullstack developer with over a year of experience building web applications. I am very familiar with Java and Spring Boot for the backend, and React for the frontend. I enjoy collaborating in agile teams, solving problems and I'm always learning new technologies. I focus a lot on writing clean and maintainable code, and following best practices.
+> I am a junior fullstack developer with over a year of experience building web applications. I am very familiar with Java and Spring Boot for the backend, and React for the frontend. I enjoy collaborating in agile teams and solving problems. I focus a lot on writing clean and maintainable code following best practices.
 
 
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
+<h3>Front end stack</h3>
+
+<table align="center">
+  <tr align="center">
     </td>
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://www.svgrepo.com/show/376350/spring.svg" width="48" height="48" alt="Spring Boot" />
-      </a>
-      <br>Spring
-    </td>
-   </td>
         <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48" height="48" alt="Tailwind" />
@@ -38,12 +27,7 @@
       </a>
       <br>React
     </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="48" height="48" alt="SQL" />
-      </a>
-      <br>SQL
-    </td>
+  
    <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://www.svgrepo.com/show/452045/js.svg" width="48" height="48" alt="Javascript" />
@@ -61,19 +45,51 @@
         <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
-   <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python  
-  <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.svgrepo.com/show/373966/php.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>  
+   
   </tr>
 </table>
+
+<h3>Back end stack</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://www.svgrepo.com/show/376350/spring.svg" width="48" height="48" alt="Spring Boot" />
+      </a>
+      <br>Spring boot
+    </td>
+   </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+ 
+</table>
+
+<h3 align="left" id="macropower-tech">Virtualization</h2>
+
+<table align="center">
+  <tr >
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/452192/docker.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+
+</table>
+
+
 
 
 
@@ -81,8 +97,8 @@
 
 > Technologies I am learning now.
 
-<table>
-  <tr>
+<table align="center">
+  <tr >
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://www.svgrepo.com/show/452192/docker.svg" width="48" height="48" alt="Docker" />
@@ -96,12 +112,6 @@
       </a>
       <br>TypeScript
     </td>   
-         <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
        <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://www.svgrepo.com/show/448266/aws.svg" width="48" height="48" alt="AWS" />
@@ -120,9 +130,9 @@
 
 <h2 align="left" id="macropower-tech">Languajes</h2>
 
-<table>
-  <tr>
-    <th>Languaje</th>
+<table align="center">
+  <tr width="96">
+    <th width="96">Languaje</th>
     <th>Level</th>
   </tr>
   <tr>
