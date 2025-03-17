@@ -2,7 +2,7 @@
 
 <h2 align="left" id="macropower-tech">About me</h2>
 
-> I'm a Full Stack Developer with over 2 years of experience building web applications. I specialize in Java and Spring Boot, especially working with microservices to create scalable and efficient backends. On the frontend, I love using React to build modern and interactive user interfaces. I enjoy working in agile teams, solving challenges, and delivering creative solutions. Clean and maintainable code is my thing, always following best practices to make life easier for everyone!
+> I'm a Full Stack Developer with over 3 years of experience building web applications. I specialize in Java and Spring Boot, especially working with microservices to create scalable and efficient backends. On the frontend, I love using React to build modern and interactive user interfaces. I enjoy working in agile teams, solving challenges, and delivering creative solutions. Clean and maintainable code is my thing, always following best practices to make life easier for everyone!
 
 
 
